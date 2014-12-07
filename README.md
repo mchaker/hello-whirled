@@ -1,4 +1,4 @@
 hello-whirled
 =============
 
-A new... spin... on an age-old exercise
+A new... spin... on an age-old exercise.
